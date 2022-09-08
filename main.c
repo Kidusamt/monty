@@ -3,7 +3,7 @@
 char **argv = NULL;
 /**
 *  * main - entry point
-*   * @ac: the argument count
+* @ac: the argument count
 *    * @av: the argument vector
 *     *
 *      * Return: 0 upon success, 1 upon failure
